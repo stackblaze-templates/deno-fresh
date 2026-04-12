@@ -1,0 +1,1 @@
+{"tasks":{"start":"deno run -A main.ts","dev":"deno run -A --watch main.ts"},"imports":{"$fresh/":"https://deno.land/x/fresh@1.7.3/","preact":"https://esm.sh/preact@10.24.0","preact/":"https://esm.sh/preact@10.24.0/"}}
